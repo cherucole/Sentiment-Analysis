@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'twitter',
     'bootstrap4',
-    'chartjs'
+    'chartjs',
 ]
 
 MIDDLEWARE = [
